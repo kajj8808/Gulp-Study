@@ -1,0 +1,9 @@
+{
+  "name": "superGulp",
+  "version": "1.0.0",
+  "description": "Gulp study",
+  "main": "index.js",
+  "repository": "https://github.com/kajj8808/Gulp-Study",
+  "author": "kajj8808 <sss003366@naver.com>",
+  "license": "MIT"
+}
