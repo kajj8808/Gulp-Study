@@ -1,0 +1,26 @@
+@import '_reset';
+@import '_variables';
+
+body {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: $red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+}
+
+header{
+  display: flex;
+  img{
+    width: 100px;
+    margin-bottom: 35px;
+  }
+}
+
+h1{
+  color: $white;
+  font-size: 30px;
+  font-weight: 300;
+}

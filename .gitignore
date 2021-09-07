@@ -1,1 +1,7 @@
-ÿþ
+.env
+
+
+.next
+
+build/
+node_modules
